@@ -1,0 +1,94 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+    
+}
+.homepage{
+    background-color: #0d1117
+}
+
+.header{
+    background-color: #c9d1d9;
+    margin: 50px 700px 0px 600px;
+}
+
+#github-logo{
+    border-radius: 100%;
+    filter: invert();
+    width: 4rem;
+    margin-bottom:1rem ;
+}
+.form-header{
+    color:#c9d1d9;
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+    text-align: center;
+    font-size: 25px;
+    /* word-wrap:break-word */
+}
+.text-fields{
+    color:#c9d1d9;
+    font-weight: 400;
+    font-size: 16px;
+
+}
+.form,.new-user{
+    margin-inline-start: 29em;
+    margin-inline-end: 29em;
+    border-radius: 5px;
+    border: 1px solid #21262d;
+    margin-block-start: 1em;
+    background-color: #161b22;
+    padding: 10px;
+}
+#forgot-password {
+    color: #58a6e9;
+    text-decoration: none ;
+    margin-left: 42%;
+    font-weight: 400;
+    font-size: 14px;
+
+}
+.creds{
+    background-color: #0d1117;
+    border-style: hidden;
+    border-radius: 5px;
+    width: 100%;
+    vertical-align: middle;
+    height: 2.5em;
+    margin:1em 0 1em ;
+}
+.submit-button,.textarea{
+    margin: 10px;
+    
+}
+
+#submit{
+    background-color: #238636;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border-width: 0;
+    font-weight: bold;
+    text-align: center;
+    font-size: medium;
+    color:#c9d1d9;
+
+}
+.new-user{
+    border-color: #c9d1d9;
+    color:#c9d1d9;
+    text-align: center;
+    background-color: transparent;
+    padding: 20px;
+    font-weight: bold;
+}
+#create-account{
+    color: #58a6e9;
+    text-decoration: none ;
+    font-weight: 400;
+
+}
